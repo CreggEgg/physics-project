@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "g",
+      "targetTime": 0.25727212319699416
+    },
+    {
+      "name": "m",
+      "targetTime": 3.028040489291238
+    },
+    {
+      "name": "r",
+      "targetTime": 5.805556976834107
+    }
+  ],
+  "seed": 2021089753
+}
